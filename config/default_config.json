@@ -1,0 +1,17 @@
+{
+    "modules": [
+        {
+            "disabled": true,
+            "module": "alert"
+        },
+        {
+            "disabled": false,
+            "module": "MMM-Wallpaper",
+            "position": "fullscreen_below",
+            "config": {
+                "source": "/config/img/scan.png",
+                "filter": "brightness(1)"
+            }
+        }
+    ]
+}

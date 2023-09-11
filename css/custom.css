@@ -1,0 +1,44 @@
+:root {
+  --ONSP-VIBRANT-LIGHTVIBRANT: #b9b9b9;
+}
+
+.calendar .module-span,
+#module_6_weather .module-span {
+  height: 2px;
+  background-color: transparent;
+  display: block;
+  border-radius: 2px;
+  margin-bottom: 5px;
+}
+
+.calendar .module-header,
+#module_5_weather .module-header {
+  display: inline-block !important;
+  transition: background-color 1s ease-in-out;
+  background-color: var(--ONSP-VIBRANT-LIGHTVIBRANT) !important;
+  color: black !important;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 103px;
+  margin-bottom: 6px;
+}
+
+.clockGrid .seconds {
+  transition: color 1s ease-in-out;
+  color: var(--ONSP-VIBRANT-LIGHTVIBRANT) !important;
+}
+
+.clockGrid #clockMinute {
+  transition: background-color 1s ease-in-out;
+  background-color: var(--ONSP-VIBRANT-LIGHTVIBRANT) !important;
+}
+
+#animation {
+  transition: opacity 1s ease-in-out;
+}
+
+.materialDate {
+  transition: color 1s ease-in-out;
+  color: var(--ONSP-VIBRANT-LIGHTVIBRANT) !important;
+}

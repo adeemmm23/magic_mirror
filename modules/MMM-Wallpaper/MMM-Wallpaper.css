@@ -1,0 +1,15 @@
+.MMM-Wallpaper .content-fill {
+  transition: background-image 1s ease-in-out;
+  background-image: url(/config/img/black.jpg);
+  position: absolute;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  background-size: cover !important;
+  filter: brightness(0.5);
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  z-index: 0;
+}

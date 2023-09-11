@@ -1,0 +1,28 @@
+iframe.newsfeed-fullarticle {
+  width: 100vw;
+  /* very large height value to allow scrolling */
+  height: 3000px;
+  top: 0;
+  left: 0;
+  border: none;
+  z-index: 1;
+  font-family: 'Changa', sans-serif;
+}
+
+.region.bottom.bar.newsfeed-fullarticle {
+  bottom: inherit;
+  top: -90px;
+  font-family: 'Changa', sans-serif;
+}
+
+.newsfeed-list {
+  list-style: none;
+  font-family: 'Changa', sans-serif;
+}
+
+.newsfeed-list li {
+  text-align: justify;
+  margin-bottom: 0.5em;
+  font-family: 'Changa', sans-serif;
+}
+

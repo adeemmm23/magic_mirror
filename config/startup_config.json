@@ -1,0 +1,53 @@
+{
+    "modules": [
+        {
+            "disabled": false,
+            "module": "alert"
+        },
+        {
+            "disabled": false,
+            "module": "clock",
+            "position": "top_left"
+        },
+        {
+            "disabled": false,
+            "module": "calendar",
+            "position": "top_left"
+        },
+        {
+            "disabled": false,
+            "module": "compliments",
+            "position": "lower_third"
+        },
+        {
+            "disabled": false,
+            "module": "weather",
+            "position": "top_right"
+        },
+        {
+            "disabled": false,
+            "module": "weather",
+            "position": "top_right"
+        },
+        {
+            "disabled": false,
+            "module": "newsfeed",
+            "position": "bottom_left"
+        },
+        {
+            "disabled": false,
+            "module": "MMM-OnSpotify",
+            "position": "bottom_right"
+        },
+        {
+            "disabled": false,
+            "module": "MMM-Wallpaper",
+            "position": "fullscreen_below"
+        },
+        {
+            "disabled": false,
+            "module": "MMM-Brightness",
+            "position": "fullscreen_above"
+        }
+    ]
+}
